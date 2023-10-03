@@ -2,7 +2,7 @@
 👨‍⚖️CURSO COMPLETO DE GITHUB.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=GitHub)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=git)
 
 [![GitHub Repo stars](https://img.shields.io/badge/TREINE%20COMANDOS-GIT-03A9F4?logo=google)](https://learngitbranching.js.org/?locale=pt_BR) <br>
 
