@@ -39,3 +39,54 @@ O GitHub, por outro lado, é uma plataforma de hospedagem de repositórios Git n
 4. **Forks:** Você pode fazer um fork de um repositório existente no GitHub, criando assim sua própria cópia do projeto. Isso é útil quando você deseja contribuir para um projeto de código aberto.
 
 Em resumo, o Git é o sistema de controle de versão que você usa localmente em seu computador para rastrear e gerenciar alterações em seu código, enquanto o GitHub é uma plataforma que fornece hospedagem na nuvem para repositórios Git, além de recursos adicionais para colaboração, gerenciamento de projeto e compartilhamento de código. Juntos, eles formam uma ferramenta poderosa para o desenvolvimento de software colaborativo e controle de versão.
+
+# CARACTERISTICAS:
+## GIT:
+### POSITIVAS:
+- **Controle de Versão Distribuído:** O Git é um sistema de controle de versão distribuído, o que significa que cada desenvolvedor tem uma cópia completa do histórico do projeto em seu ambiente local.
+
+- **Eficiente em Grandes Projetos:** O Git é conhecido por ser eficiente mesmo em grandes projetos, lidando bem com uma grande quantidade de arquivos e alterações.
+
+- **Ramo (Branch) Flexível:** Permite a criação fácil de ramos (branches), facilitando o desenvolvimento simultâneo de diferentes funcionalidades sem interferências.
+
+- **Histórico Detalhado:** Mantém um histórico detalhado de alterações, permitindo rastrear quem fez o quê e quando.
+
+- **Ferramenta de Linha de Comando Poderosa:** Git oferece uma ferramenta de linha de comando poderosa para operações avançadas, além de interfaces gráficas para facilitar o uso.
+
+- **Ampla Adoção na Comunidade:** É amplamente adotado na comunidade de desenvolvimento, sendo utilizado em muitos projetos de código aberto e empresas.
+
+### NEGATIVAS:
+- **Curva de Aprendizado Inicial:** Pode ter uma curva de aprendizado inicial, especialmente para usuários novos em controle de versão.
+
+- **Comandos Complexos para Operações Avançadas:** Algumas operações avançadas podem exigir comandos complexos da linha de comando, o que pode ser intimidador para iniciantes.
+
+- **Configuração Inicial Pode Ser Detalhada:** Configurações iniciais e a compreensão de conceitos como "staging" podem ser detalhadas para novos usuários.
+
+- **Gerenciamento Manual de Dependências:** O Git por si só não gerencia dependências externas, o que pode ser uma consideração em projetos mais complexos.
+
+---
+
+## GITHUB:
+### POSITIVAS:
+- **Plataforma de Hospedagem de Código:** GitHub é uma plataforma de hospedagem de código que utiliza o Git, proporcionando funcionalidades adicionais como controle de acesso, rastreamento de problemas e integração contínua.
+
+- **Colaboração Facilitada:** Facilita a colaboração em projetos, permitindo que equipes trabalhem de forma eficiente, acompanhem mudanças e contribuam com código.
+
+- **Integração com Serviços de CI/CD:** Suporta integração contínua e entrega contínua (CI/CD), permitindo automação de testes e implantação.
+
+- **Rastreamento de Problemas (Issues):** Oferece um sistema de rastreamento de problemas integrado, facilitando a comunicação e a solução de problemas.
+
+- **Ferramentas de Revisão de Código:** Fornece ferramentas para revisão de código, facilitando a colaboração e a melhoria da qualidade do código.
+
+- **Comunidade Ativa:** GitHub tem uma comunidade ativa, com muitos projetos de código aberto e recursos educacionais disponíveis.
+
+### NEGATIVAS:
+- **Limitações em Repositórios Privados Gratuitos:** Em sua versão gratuita, repositórios privados têm algumas limitações em termos de colaboradores e recursos.
+
+- **Dependência Externa:** Projetos hospedados no GitHub estão sujeitos à disponibilidade e políticas da plataforma, o que pode ser uma consideração para projetos críticos.
+
+- **Necessidade de Conexão com a Internet:** A colaboração efetiva no GitHub requer uma conexão com a internet, o que pode ser uma limitação em ambientes isolados.
+
+- **Requer Assinatura para Recursos Avançados:** Recursos avançados, como GitHub Actions para CI/CD, podem exigir assinaturas pagas.
+
+- **Aprendizado Adicional para Recursos Avançados:** Aproveitar totalmente os recursos avançados do GitHub pode exigir um tempo de aprendizado adicional para os usuários.
