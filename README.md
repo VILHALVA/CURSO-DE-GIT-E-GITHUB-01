@@ -1,6 +1,5 @@
 # CURSO DE GIT E GITHUB
-- 👨‍⚖️GIT É UM SOFTWARE DE VERSIONAMENTO.
-- 👨‍⚖️GITHUB É UMA REDE SOCIAL.
+👨‍⚖️O GIT É UM SISTEMA DE CONTROLE DE VERSÃO DISTRIBUÍDO, ENQUANTO O GITHUB É UMA PLATAFORMA DE HOSPEDAGEM DE CÓDIGO QUE UTILIZA O GIT.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=git)
