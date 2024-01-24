@@ -10,8 +10,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/-INTERFACE%20GRAFICA-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 [![GitHub Repo stars](https://img.shields.io/badge/-VIA%20TERMINAL-blueviolet)](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
 
-<img src="https://miro.medium.com/v2/resize:fit:256/0*xzfXdWrkrbDw7cIZ.png" align="center" width="280"> <br>
-
 ## CONCEITO:
 O Git e o GitHub são duas ferramentas fundamentais no desenvolvimento de software e no controle de versão de código. Vou explicar cada um deles separadamente:
 
