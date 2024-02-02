@@ -83,7 +83,7 @@ Em resumo, o Git é o sistema de controle de versão que você usa localmente em
 
 ## SUBSIDIOS:
 - [CURSO "01) INTERFACE GRAFICA" CRIADO PELO "CURSO EM VIDEO"](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-- [CURSO "02) VIA TERMINAL" CRIADO PELO "TIAGO MATOS"](https://img.shields.io/badge/-VIA%20TERMINAL-blueviolet)](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+- [CURSO "02) VIA TERMINAL" CRIADO PELO "TIAGO MATOS"](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO DO GIT](https://git-scm.com/doc)
 - [VEJA A DOCUMENTAÇÃO DO GITHUB](https://docs.github.com/pt)
