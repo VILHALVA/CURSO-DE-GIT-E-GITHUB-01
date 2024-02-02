@@ -1,14 +1,7 @@
 # CURSO DE GIT E GITHUB
 👨‍⚖️O GIT É UM SISTEMA DE CONTROLE DE VERSÃO DISTRIBUÍDO, ENQUANTO O GITHUB É UMA PLATAFORMA DE HOSPEDAGEM DE CÓDIGO QUE UTILIZA O GIT.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-
-[![GitHub Repo stars](https://img.shields.io/badge/DOCUMENTAÇÃO-GIT-03A9F4?logo=google)](https://git-scm.com/doc) 
-[![GitHub Repo stars](https://img.shields.io/badge/DOCUMENTAÇÃO-GITHUB-03A9F4?logo=google)](https://docs.github.com/pt)
-<br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/-INTERFACE%20GRAFICA-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-[![GitHub Repo stars](https://img.shields.io/badge/-VIA%20TERMINAL-blueviolet)](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 O Git e o GitHub são duas ferramentas fundamentais no desenvolvimento de software e no controle de versão de código. Vou explicar cada um deles separadamente:
@@ -37,9 +30,9 @@ O GitHub, por outro lado, é uma plataforma de hospedagem de repositórios Git n
 
 Em resumo, o Git é o sistema de controle de versão que você usa localmente em seu computador para rastrear e gerenciar alterações em seu código, enquanto o GitHub é uma plataforma que fornece hospedagem na nuvem para repositórios Git, além de recursos adicionais para colaboração, gerenciamento de projeto e compartilhamento de código. Juntos, eles formam uma ferramenta poderosa para o desenvolvimento de software colaborativo e controle de versão.
 
-# CARACTERISTICAS:
-## GIT:
-### POSITIVAS:
+## CARACTERISTICAS:
+### GIT:
+#### POSITIVAS:
 - **Controle de Versão Distribuído:** O Git é um sistema de controle de versão distribuído, o que significa que cada desenvolvedor tem uma cópia completa do histórico do projeto em seu ambiente local.
 
 - **Eficiente em Grandes Projetos:** O Git é conhecido por ser eficiente mesmo em grandes projetos, lidando bem com uma grande quantidade de arquivos e alterações.
@@ -52,7 +45,7 @@ Em resumo, o Git é o sistema de controle de versão que você usa localmente em
 
 - **Ampla Adoção na Comunidade:** É amplamente adotado na comunidade de desenvolvimento, sendo utilizado em muitos projetos de código aberto e empresas.
 
-### NEGATIVAS:
+#### NEGATIVAS:
 - **Curva de Aprendizado Inicial:** Pode ter uma curva de aprendizado inicial, especialmente para usuários novos em controle de versão.
 
 - **Comandos Complexos para Operações Avançadas:** Algumas operações avançadas podem exigir comandos complexos da linha de comando, o que pode ser intimidador para iniciantes.
@@ -63,8 +56,8 @@ Em resumo, o Git é o sistema de controle de versão que você usa localmente em
 
 ---
 
-## GITHUB:
-### POSITIVAS:
+### GITHUB:
+#### POSITIVAS:
 - **Plataforma de Hospedagem de Código:** GitHub é uma plataforma de hospedagem de código que utiliza o Git, proporcionando funcionalidades adicionais como controle de acesso, rastreamento de problemas e integração contínua.
 
 - **Colaboração Facilitada:** Facilita a colaboração em projetos, permitindo que equipes trabalhem de forma eficiente, acompanhem mudanças e contribuam com código.
@@ -77,7 +70,7 @@ Em resumo, o Git é o sistema de controle de versão que você usa localmente em
 
 - **Comunidade Ativa:** GitHub tem uma comunidade ativa, com muitos projetos de código aberto e recursos educacionais disponíveis.
 
-### NEGATIVAS:
+#### NEGATIVAS:
 - **Limitações em Repositórios Privados Gratuitos:** Em sua versão gratuita, repositórios privados têm algumas limitações em termos de colaboradores e recursos.
 
 - **Dependência Externa:** Projetos hospedados no GitHub estão sujeitos à disponibilidade e políticas da plataforma, o que pode ser uma consideração para projetos críticos.
@@ -87,3 +80,10 @@ Em resumo, o Git é o sistema de controle de versão que você usa localmente em
 - **Requer Assinatura para Recursos Avançados:** Recursos avançados, como GitHub Actions para CI/CD, podem exigir assinaturas pagas.
 
 - **Aprendizado Adicional para Recursos Avançados:** Aproveitar totalmente os recursos avançados do GitHub pode exigir um tempo de aprendizado adicional para os usuários.
+
+## SUBSIDIOS:
+- [CURSO "01) INTERFACE GRAFICA" CRIADO PELO "CURSO EM VIDEO"](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+- [CURSO "02) VIA TERMINAL" CRIADO PELO "TIAGO MATOS"](https://img.shields.io/badge/-VIA%20TERMINAL-blueviolet)](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO DO GIT](https://git-scm.com/doc)
+- [VEJA A DOCUMENTAÇÃO DO GITHUB](https://docs.github.com/pt)
