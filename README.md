@@ -1,5 +1,6 @@
 # CURSO DE GIT E GITHUB
 👨‍⚖️O GIT É UM SISTEMA DE CONTROLE DE VERSÃO DISTRIBUÍDO, ENQUANTO O GITHUB É UMA PLATAFORMA DE HOSPEDAGEM DE CÓDIGO QUE UTILIZA O GIT.
+👨‍💻NESSE CURSO VOCÊ IRÁ APRENDER A GERENCIAR O GIT VIA INTERFACE GRÁFICA.
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
@@ -82,8 +83,7 @@ Em resumo, o Git é o sistema de controle de versão que você usa localmente em
 - **Aprendizado Adicional para Recursos Avançados:** Aproveitar totalmente os recursos avançados do GitHub pode exigir um tempo de aprendizado adicional para os usuários.
 
 ## SUBSIDIOS:
-- [CURSO "01) INTERFACE GRAFICA" CRIADO PELO "CURSO EM VIDEO"](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-- [CURSO "02) VIA TERMINAL" CRIADO PELO "TIAGO MATOS"](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO DO GIT](https://git-scm.com/doc)
 - [VEJA A DOCUMENTAÇÃO DO GITHUB](https://docs.github.com/pt)
